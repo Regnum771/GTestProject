@@ -1,0 +1,15 @@
+alpaca
+bee
+cat
+dog
+eagle
+frog
+giraffle
+hippopotamus
+iguana
+jaguar
+koala
+llama
+monkey
+newt
+otter
